@@ -6,6 +6,7 @@
 ## E mais:
 <p>De um lado, tem-se empresas engajadas na preservação dos oceanos e que querem financiar o projeto e incentivar os voluntários. Do outro lado, tem-se voluntários que trabalham na retirada de lixo dos oceanos/praias e que recebem um determinado valor para isso.</p>
 <p>Ao mesmo tempo em que se garante um futuro limpo ao retirar o lixo dos oceanos, também é garantido aos voluntários o recebimento de dinheiro pelo seu esforço e cuidado. Dessa forma, a BlueHorizon tem a missão de contribuir com a limpeza dos oceanos por meio da união coletiva.</p>
+<p></p><br>
 
 ## Nosso time:
 #### 1. Douglas Magalhães de Araujo - 552008
@@ -21,12 +22,17 @@
 ...
 <p></p><br>
 
-## Imagem dos diagramas:
-### Modelo Entidade-Relacionamento
+## Vídeo do funcionamento do app
 ...
+<p></p><br>
 
+## Imagem dos diagramas:
 ### Diagrama de Classes
 ...
 
 ### Arquitetura da solução
+...
+<p></p><br>
+
+## Ferramentas instaladas na VM
 ...
