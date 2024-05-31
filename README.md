@@ -28,7 +28,7 @@
 
 ## Imagem dos diagramas:
 ### Diagrama de Classes
-...
+![Diagrama_Classes_BlueHorizon](https://github.com/rafaellabastos/gs-bluehorizon-devops/assets/85761347/6761d07b-7579-4da8-85f9-27e032fd05a2)
 
 ### Arquitetura da solução
 ...
