@@ -1,4 +1,5 @@
-# BlueHorizon - Crowdsourcing para a retirada de lixo dos oceanos
+# BlueHorizon
+## Crowdsourcing para a retirada de lixo dos oceanos
 <p>A BlueHorizon está engajada no desenvolvimento de um projeto voltado à preservação e limpeza dos oceanos por meio da tecnologia e na promoção de um futuro sustentável por meio do crowdsourcing.</p>
 <p>Para isso, será desenvolvido um aplicativo/site para a retirada de lixo das praias e oceanos - mas não é a BlueHorizon que vai fazer a retirada, apenas fará o intermédio e receberá o lixo, quem retirará são os voluntários. No aplicativo, o voluntário pode ver algumas matérias sobre o assunto, acompanhar seu perfil, seu progresso e o dinheiro disponível para sacar.</p>
 
