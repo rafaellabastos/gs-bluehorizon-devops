@@ -8,7 +8,7 @@
 <p>Ao mesmo tempo em que se garante um futuro limpo ao retirar o lixo dos oceanos, também é garantido aos voluntários o recebimento de dinheiro pelo seu esforço e cuidado. Dessa forma, a BlueHorizon tem a missão de contribuir com a limpeza dos oceanos por meio da união coletiva.</p>
 <p></p><br>
 
-## Nosso time:
+## Nosso time 2TDSPF:
 #### 1. Douglas Magalhães de Araujo - 552008
 
 #### 2. Gustavo Argüello Bertacci - 551304
@@ -25,14 +25,3 @@
 ## Vídeo do funcionamento do app
 ...
 <p></p><br>
-
-## Imagem dos diagramas:
-### Diagrama de Classes
-![Diagrama_Classes_BlueHorizon](https://github.com/rafaellabastos/gs-bluehorizon-devops/assets/85761347/6761d07b-7579-4da8-85f9-27e032fd05a2)
-
-### Arquitetura da solução
-...
-<p></p><br>
-
-## Ferramentas instaladas na VM
-...
