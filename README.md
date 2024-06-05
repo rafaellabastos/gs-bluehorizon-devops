@@ -25,3 +25,18 @@
 ## Vídeo do funcionamento do app
 ...
 <p></p><br>
+
+## Como rodar a aplicação na VM
+
+### Como rodar a aplicação em nuvem pelo Docker:
+<p>1 – O primeiro passo para rodar é  fazer um login no Docker com o comando docker login (opcional).</p>
+
+<p>2 - O segundo passo é fazer o donwload da imagem do docker com o comando: 
+docker pull luizffarias/bluehorizon-spring-gs:v1.0</p> 
+
+<p>3 – O terceiro passo é verificar se a imagem foi corretamente instalada com docker images.</p>  
+
+<p>4 – O quarto passo é rodar a imagem dentro de um container utilizando a porta 80 com o comando:
+docker run –name NomeDoContainer -p 80:80 bluehorizon-spring-gs:v1.0
+</p> 
+
