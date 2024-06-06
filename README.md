@@ -25,3 +25,36 @@
 ## Vídeo do funcionamento do app
 ...
 <p></p><br>
+
+## Como rodar a aplicação na VM
+
+<p>1 – O primeiro passo para rodar é  fazer um login no Docker com o comando (opcional): </p>
+
+#### docker login
+
+![image](https://github.com/rafaellabastos/gs-bluehorizon-devops/assets/126570094/d459a257-2882-4279-80f8-6213035683b9)
+<br>
+
+<p>2 - O segundo passo é fazer o donwload da imagem do docker com o comando: </p> 
+
+#### docker pull luizffarias/bluehorizon-spring-gs:v1.0
+![image](https://github.com/rafaellabastos/gs-bluehorizon-devops/assets/126570094/4dba6bbd-1481-4be4-aae6-2ffb031ac44c)
+<br>
+
+<p>3 – O terceiro passo é verificar se a imagem foi corretamente instalada com: </p>
+
+#### docker images
+![image](https://github.com/rafaellabastos/gs-bluehorizon-devops/assets/126570094/25867bdb-1dd0-4053-9b3c-5486a1894743)
+<br>
+
+<p>4 – O quarto passo é rodar a imagem dentro de um container utilizando a porta 80 com o comando: </p> 
+
+#### docker run --name NomeDoContainer -p 80:80 luizffarias/bluehorizon-spring-gs:v1.0
+![image](https://github.com/rafaellabastos/gs-bluehorizon-devops/assets/126570094/d812f825-59d3-4bb3-b8e3-c26d739943d4)
+
+<p>5 - O quinto passo é testar os endpoints da API através de plataformas de monitoramento de APIs como postman ou através do Swagger (link: localhost:80/swagger-ui/index.html#)</p>
+
+![image](https://github.com/rafaellabastos/gs-bluehorizon-devops/assets/126570094/0d507f78-7414-4dd5-9815-3dadac9a196f)
+
+
+
