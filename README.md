@@ -19,7 +19,7 @@
 <p></p><br>
 
 ## Vídeo do funcionamento do app
-...
+https://youtu.be/f-lkLMN0efs
 <p></p><br>
 
 ## Como rodar a aplicação na VM
